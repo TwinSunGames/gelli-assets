@@ -1,0 +1,1 @@
+All text in this folder is just a placeholder until we can implement them into the game!

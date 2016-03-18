@@ -1,0 +1,181 @@
+(N) = Normal face sprite.
+
+(H) = Happy
+
+(S) = Sad
+
+(B) = Bored
+
+(Sm) = Smug
+
+(M) = Mad
+
+
+If nothing is put, just use the normal face sprite.
+---------------------------------------------------------------------
+
+You have entered the Ski Shop, 
+but it appears that nobody is here.
+
+CHOICES (Before you choose Toast):
+
+Buy
+
+Talk
+
+Toast
+
+Leave (If you leave it takes you back to the world map)
+
+BUY:
+
+You cannot buy anything!
+Nobody is here.
+
+TALK:
+
+There is nobody to talk to.
+
+TOAST:
+
+Gelli(H): Wow, this is one big peice of toast!
+
+Take a bite? Yes/No
+
+YES:
+
+You were about to take a bite...
+
+Ghosty the Toast: Hey man, that's not cool.
+
+Gelli: It talks?
+
+Ghosty: Yeah, of course I talk. What, did you think I was mute? The only mute toast I know is my cousin...
+
+Gelli(S): Heh heh, sorry about that.
+
+NO:
+
+Gelli: Yeah, it's not MY toast.
+
+Ghosty the Toast: Hey! Who says I belong to anybody? Huh?
+
+Gelli: What? It talks?
+
+Ghosty: Of course I talk! I'm a person, too!
+
+Gelli(S): Sorry, it's just... I've never heard of a talking toast.
+
+Ghosty: How rude! Well, I've never heard of a talking gumdrop.
+
+Gelli(M): GUMDROP???
+
+Ghosty: Sorry, I meant a talking blob of jelly.
+
+Gelli: Well... It's a step up.
+
+AFTER YES OR NO:
+
+Ghosty: So anyways, I'm Ghosty. Ghosty the Toast. I'm a HUGE ghost fanatic, a HUGE one!
+
+Gelli: Well it's nice to meet you, Ghosty.
+
+CHOICES (After selecting Toast)
+
+Buy
+
+Talk
+
+Leave
+
+BUY:
+
+Ghosty: Please pick anything you like.
+
+Gelli: Will do, Ghosty.
+
+Gelli: Let's see...
+
+Ghosty: It shouldn't take you too long to choose, I only have 1 item in stock.
+
+Gelli: 1 item? What is it?
+
+Ghosty: I have 1 more pair of blue skis.
+
+Gelli(S): Only 1 pair? Do you at least have them in different colors?
+
+Ghosty: Nope, just 1 pair in blue. You could wait for our next shipment to arrive.
+
+Gelli: When will that arrive?
+
+Ghosty: In... 4 maybe 5 months.
+
+Buy the Skis for 100 Coins?
+
+YES/NO
+
+YES:
+
+Ghosty: Thanks. See you later.
+
+(You leave the shop)
+
+NO (Or if you don't have any money):
+
+Ghosty: That's fine, I can wait.
+
+IF YOU ALREADY BOUGHT BUT CHOOSE BUY ANYWAYS:
+
+Ghosty: Sorry, but the next shipment hasn't arrived...
+
+Ghosty: Do you want to sing a song until then?
+
+Ghosty: WE ARE THE TOAST AND WE DO NOT BOAST THAT WE GO FROM COAST TO COAST!
+
+Ghosty: Do you like it? I made that song myself, already copyrighted it.
+
+TALK:
+
+Ghosty: Talk? About what?
+
+About the Shop
+
+About Ghosty
+
+About Toasty
+
+Nothing (Nothing takes you back to the choices.)
+
+ABOUT THE SHOP:
+
+Ghosty: Well, I decided I would set up a ski shop in a snowy area so people could ski in the next area.
+
+Gelli: I get to ski in the next area?
+
+Ghosty: Yeah, in fact, that's the only way to get farther. You can't enter the level unless you have skis.
+
+Gelli: Yeah right, this is just a scam that you use to get people to buy your skis!
+
+Ghosty: No, I swear, you need them to progress... Just try to enter the level without skis.
+
+ABOUT GHOSTY:
+
+Ghosty: You want to know about me?
+
+Ghosty: Well, I was just a normal peice of bread. But then I fell into a toaster!
+
+Ghosty: For some reason all bread gets toasted eventually.
+
+Ghosty: Um, yeah, so that's how I became a toast.
+
+ABOUT TOASTY:
+
+Ghosty: Toasty...?
+
+Ghosty: Oh yeah, I think I remember that ghost. they're purple, right? Big toast fan?
+
+Ghosty: Yeah, we're best friends. I haven't seen them in a while, though.
+
+LEAVE:
+
+Ghosty: See ya.
